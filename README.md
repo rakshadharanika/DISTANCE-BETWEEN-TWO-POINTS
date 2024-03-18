@@ -15,10 +15,6 @@ using the print function, display the distance between the two points.
 End the program.
 ### PROGRAM:
 ```
-NAME : V RAKSHA DHARANIKA
-REF NO:212223230167
-DEP: AI&DS
-```
 import math
 l1=[4,2]
 l2=[10,6]
