@@ -17,7 +17,7 @@ End the program.
 ```
 NAME : V RAKSHA DHARANIKA
 REF NO:212223230167
-DEP:AI&DS
+DEP: AI&DS
 ```
 import math
 l1=[4,2]
@@ -29,7 +29,8 @@ print("{:.2f}".format(d))
 
 ### OUTPUT:
 
-![Screenshot (85)](https://github.com/rakshadharanika/DISTANCE-BETWEEN-TWO-POINTS/assets/149348380/77b71d57-9b40-4394-b0e3-f4192358bc03)
+![Screenshot (85)](https://github.com/rakshadharanika/DISTANCE-BETWEEN-TWO-POINTS/assets/149348380/658cbb3b-2b9a-4ffd-8dcf-5c3c0a994996)
+
 
 
 ### RESULT:
